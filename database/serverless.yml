@@ -1,5 +1,6 @@
 component: aws-dynamodb
 name: database
+app: catchmind-io
 
 inputs:
   name: ${name}-${stage}
